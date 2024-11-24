@@ -20,13 +20,3 @@ encryption = XibraV(layers=5)
 # Encrypt your text
 encrypted_text = encryption.encrypt("Hello, this is a secret!")
 print(encrypted_text)
-## Installation
-
-To install **xibra_v**, you can use **pip**. Follow the steps below to install it:
-
-### Install via pip from GitHub:
-
-If you'd like to install directly from the GitHub repository, simply run this command:
-
-```bash
-pip install git+https://github.com/yourusername/xibra_v.git
